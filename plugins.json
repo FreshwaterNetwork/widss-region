@@ -10,6 +10,11 @@
 		"repo": "wiApp",
 		"name": "wiApp",
 	 	"org": "FreshwaterNetwork"
+	},
+	{
+		"repo": "AOCapp",
+		"name": "AOCapp",
+	 	"org": "FreshwaterNetwork"
 	}
    ]
 }
