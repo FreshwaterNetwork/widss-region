@@ -1,11 +1,11 @@
 {
   "plugins": [
-<<<<<<< HEAD
+
     
 	{
 		"repo": "regional-planning",
 		"name": "regional-planning",
-    		"ver": "a26cf79"
+    		
 	},
 	
 	{
@@ -13,17 +13,5 @@
 		"name": "AOCapp",
 	 	"org": "FreshwaterNetwork"
 	}
-=======
-    {
-  	  "repo": "wiApp",
-  	  "name": "wiApp",
-  	  "org": "FreshwaterNetwork"
-    },
-		{
-			"repo": "wiApp",
-			"name": "wiApp",
-            "ver": "a26cf79"
-		}
->>>>>>> refs/remotes/origin/master
    ]
 }
