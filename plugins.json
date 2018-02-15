@@ -9,6 +9,11 @@
 		"repo": "AOCapp",
 		"name": "AOCapp",
 	 	"org": "FreshwaterNetwork"
-	}
+	},
+	{
+		"repo": "floodtags-test-app",
+		"name": "floodtags-test-app"
+	},
+
    ]
 }
