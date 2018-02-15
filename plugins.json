@@ -1,25 +1,16 @@
 {
   "plugins": [
-<<<<<<< HEAD
-
     
-	{
-		"repo": "regional-planning",
-		"name": "regional-planning",
-    		
-	},
-	
-=======
-	  {
- 		"repo": "regional-planning",
- 		"name": "regional-planning"
- 	},
-	  
->>>>>>> refs/remotes/origin/master
-	{
-		"repo": "AOCapp",
-		"name": "AOCapp",
-	 	"org": "FreshwaterNetwork"
-	}
+    	{
+    		"repo": "regional-planning",
+    		"name": "regional-planning",
+        		
+    	},
+
+    	{
+    		"repo": "AOCapp",
+    		"name": "AOCapp",
+    	 	"org": "FreshwaterNetwork"
+    	}
    ]
 }

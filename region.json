@@ -66,21 +66,14 @@
             "description": "<p>Wisconsin’s waters and wetlands help our state thrive, benefiting people, fish, and wildlife. Explore the following mapping tools to better understand these important resources and guide decisions around protecting and restoring them.</p>",
             "plugins": [
 				{
-<<<<<<< HEAD
-<<<<<<< HEAD
-					"title": "AOC App",
-					"description": "Wetlands can improve water quality, reduce flood impacts, help streams flow, provide habitat, and offer many other services. But not all wetlands provide the same services to the same degree! To find the best sites to restore and protect—and the most promising watersheds to work in—check out the Wetlands and Watersheds Explorer.",
-					"pluginName": "AOCapp"
-=======
+
 					"title": "Wetlands by Design: A Watershed Approach",
 					"description": "Wetlands can improve water quality, reduce flood impacts, help streams flow, provide habitat, and offer many other services. But not all wetlands provide the same services to the same degree! To find the best sites to restore and protect—and the most promising watersheds to work in—check out the Wetlands and Watersheds Explorer.",
-					"pluginName": "wiApp"
->>>>>>> refs/remotes/origin/master
-=======
+					"pluginName": "wiApp",
+
 					"title": "Wildlife Recovery: Lower Green Bay & Fox River AOC (1st choice)",
 					"description": "There are multiple opportunities to restore wildlife habitat and populations in the Area of Concern and its watershed. Explore the tool to find …(need more)",
 					"pluginName": "AOCapp"
->>>>>>> refs/remotes/origin/master
 				}
             ]
       }
